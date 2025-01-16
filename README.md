@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Ygor Macedo 🤙🏻
 ## Contato: [![contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ygormacedo44@gmail.com) [![contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](5511947578682) [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ygormaced/)
 
-![Ygor M. GitHub stats](https://github-readme-stats.vercel.app/api?username=ygormacedo&show_icons=true&theme=radical)
+![Ygor M. GitHub stats](https://github-readme-stats.vercel.app/api?username=ygormacedo&show_icons=true&theme=dracula)
 
 ##Tecnologias que eu uso no meu dia a dia.
 
